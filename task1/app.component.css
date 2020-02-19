@@ -1,0 +1,15 @@
+li a{
+    text-decoration: none;
+    color: grey;
+}
+li{
+    display: block;
+    padding: 10px;
+    list-style-type: none;
+}
+li a:hover{
+    color: blanchedalmond;
+}
+.active{
+    color: blanchedalmond;
+}
